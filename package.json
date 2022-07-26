@@ -1,7 +1,7 @@
 {
-    "name": "webauthn-codelab",
+    "name": "webauthn-nodejs",
     "version": "0.0.3",
-    "description": "Your First WebAuthn App",
+    "description": "WebAuthn App",
     "main": "server.js",
     "scripts": {
       "build": "webpack -p",
@@ -33,7 +33,7 @@
       "node": "10.x"
     },
     "repository": {
-      "url": "https://github.com/googlecodelabs/fido2-codelab"
+      "url": "https://github.com/anaselhajjaji/webauthn-nodejs"
     },
     "license": "Apache-2.0",
     "keywords": [
